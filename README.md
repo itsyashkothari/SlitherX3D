@@ -30,3 +30,13 @@ I suggest play the game atleast 3-4 times to get hang of it.
 For any help,query or suggestion contact me at - fb.com/123yash 
 
 
+# Pictures
+![Game Begin](https://github.com/itsyashkothari/SlitherX3D/blob/master/img/gamestart.png)
+
+<br>
+<br>
+
+
+![Game](https://github.com/itsyashkothari/SlitherX3D/blob/master/img/Game.png)
+
+
