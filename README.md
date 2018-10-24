@@ -4,7 +4,6 @@
 3D version of classic snakes!
 
 
-
 # Help
 
 + Snake can move in 6 direction. left,right,towards you, away from you ,top and down.
